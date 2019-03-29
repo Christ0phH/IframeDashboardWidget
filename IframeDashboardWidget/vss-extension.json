@@ -185,6 +185,7 @@
             "rowSpan": 2,
             "columnSpan": 11
           },
+	  {
             "rowSpan": 3,
             "columnSpan": 1
           },
@@ -228,8 +229,8 @@
             "rowSpan": 3,
             "columnSpan": 11
           },
-		 {
-		    "rowSpan": 3,
+ 	  {
+	    "rowSpan": 3,
             "columnSpan": 1
           },
           {
@@ -272,8 +273,8 @@
             "rowSpan": 3,
             "columnSpan": 11
           },
-		      {
-		        "rowSpan": 4,
+	  {
+	    "rowSpan": 4,
             "columnSpan": 1
           },
           {
@@ -359,11 +360,11 @@
          {
             "rowSpan": 5,
             "columnSpan": 11
-          },
+          }
         ],
         "supportedScopes": [ "project_team" ]
       }
-    },
+    }
     {
       "id": "IframeDashboardWidget.Configuration",
       "type": "ms.vss-dashboards-web.widget-configuration",
